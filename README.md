@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Sergey Matveev </h1>
+<h1 align="center">Hey all</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
