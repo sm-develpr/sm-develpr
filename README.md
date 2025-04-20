@@ -15,7 +15,7 @@
 ### About me
  I'm a junior developer from Russia 
 
- I'm interested in mathematical modeling & software developments. 
+ I'm interested in Machine Learning & software developments. 
  Now I'm study in SESC NSU
  At the same time, I learn programming.
 <h3>💻 Projects </h3>
