@@ -19,6 +19,8 @@
  Now I'm study in MIPT
  At the same time, I learn programming.
 <h3>💻 Projects </h3>
+
   [Retinopathy of prematurity](https://github.com/sm-develpr/Retinopathy-of-prematurity)
+  
   [UniPkg](https://github.com/sm-develpr/UniPkg)
 </details>
